@@ -9,8 +9,10 @@ const urlsToCache = [
   '/styles.css',
   '/app.js',
   '/icons/github_icon.png',
+  '/icons/photo.png'
   '/images/phone_qr.png',
   '/images/tg_qr.png',
+  '/images/wechat_qr.png',
   '/offline.html'
 ];
 
