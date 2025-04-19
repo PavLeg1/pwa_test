@@ -8,6 +8,7 @@ const urlsToCache = [
   '/index.html',
   '/styles.css',
   '/app.js',
+  '/manifest.json',
   '/icons/github_icon.png',
   '/icons/photo.png'
   '/images/phone_qr.png',
